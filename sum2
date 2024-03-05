@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+int main()
+{
+    int number= 35;
+    int numbertwo= 34.5;
+    printf("the sum of %d and %d is %d" ,number ,numbertwo, number + numbertwo);
+return 0;
+}
